@@ -49,7 +49,7 @@ amazon-review-sentiment/
 ```bash
 git clone https://github.com/your-username/amazon-review-sentiment.git
 cd amazon-review-sentiment
-
+```
 2. **Create a virtual environment**
 ```bash
 python -m venv venv
