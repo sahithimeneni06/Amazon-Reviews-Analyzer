@@ -68,7 +68,7 @@ pip install matplotlib seaborn numpy streamlit tensorflow scikit-learn
 1. Place the trained model (model.h5) and tokenizer (tokenizer.pkl) inside the model/ folder.
 
 2. Run the Streamlit app:
-bash```
+```bash
 streamlit run app.py
 ```
 
