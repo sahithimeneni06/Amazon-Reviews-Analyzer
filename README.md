@@ -47,7 +47,7 @@ amazon-review-sentiment/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/amazon-review-sentiment.git
+git clone https://github.com/sahithimeneni06/amazon-review-sentiment.git
 cd amazon-review-sentiment
 ```
 2. **Create a virtual environment**
